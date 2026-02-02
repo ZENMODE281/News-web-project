@@ -1,0 +1,4 @@
+- [x] Add Google Fonts import for Inter to frontend/style.css
+- [x] Set font-family on body in frontend/style.css
+- [ ] Update font family in style guide.md
+- [ ] Test by opening the website

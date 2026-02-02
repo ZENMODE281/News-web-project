@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #343a37;
+    text-decoration: white;
+    font-family: 'Inter', sans-serif;
+}
+
+.Main-container{
+    height: 100vh;
+    border: 3px solid rgb(255, 255, 255);
+    justify-content: center;
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+.inner1-main-container{
+    height: inherit;
+    border: 3px solid yellow;
+}
+
+h4{
+    
+}
+
+/************mobile screens****************/
